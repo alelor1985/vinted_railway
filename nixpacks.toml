@@ -1,5 +1,2 @@
-[build]
-  packages = ["python3", "python3-pip"]
-
 [start]
-  cmd = "python3 vinted_bot.py"
+cmd = "bash start.sh"
